@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm M Jagadeesh</h1>
+<h3 align="center">B.Tech CSE (Data Science) Student | Aspiring Software Developer</h3>
 
-<!--
-**mjagadeesh-dev/mjagadeesh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 B.Tech CSE (Data Science) @ St. Johns College of Engineering and Technology  
+- 💻 Strong foundation in **Python, Web Development & Data Analysis**  
+- ⚡ Quick learner & adaptable to new technologies  
+- 🤝 Comfortable in both team and self-directed environments  
+- 🎯 Interested in **Software Development & Data Science**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+### 👨‍💻 Programming
+- Python  
+
+### 🌐 Web Development
+- HTML, CSS, JavaScript  
+
+### 🗄️ Databases
+- MySQL, SQL  
+
+### 📊 Data Tools
+- Microsoft Excel  
+
+### ⚙️ Frameworks & Tools
+- Django  
+- React.js  
+- VS Code  
+- PyCharm  
+
+### 📚 Core Concepts
+- Object-Oriented Programming (OOP)
+
+---
+
+## 💡 Projects
+
+### 🔍 AI-Based Code Quality Analyzer
+- Developed an AI-assisted system to analyze code quality  
+- Detected syntax & logical errors using Python  
+- Provided suggestions for improving readability & performance  
+- Identified inefficient and redundant code  
+
+### 📊 Data Analysis Projects
+- Performed analysis on structured datasets  
+- Created visualizations (bar charts, line charts, pie charts)  
+- Extracted meaningful insights for decision-making  
+
+---
+
+## 📜 Certifications
+- 🏅 Full Stack Python Developer – Pentagon Space  
+- 🏅 Python Certificate – Code Alpha  
+
+---
+
+## 📊 GitHub Stats
+
+![Jagadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: machanijagadish2005@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/m-jagadeesh-282330336/
+
+---
+
+⭐ *"Always learning, always building."*
